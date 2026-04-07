@@ -3,7 +3,7 @@
 ![Tofu & Mango Summer Rolls](../../assets/recipes/imported/tofu-and-mango-summer-rolls.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5281` and `IMG_5282`)  
+**Source:** Noom cookbook (`IMG_5281` and `IMG_5282`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  

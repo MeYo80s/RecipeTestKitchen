@@ -3,7 +3,7 @@
 ![Crispy Quinoa Granola](../../assets/recipes/imported/crispy-quinoa-granola.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5292` and `IMG_5293`)  
+**Source:** Noom cookbook (`IMG_5292` and `IMG_5293`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  

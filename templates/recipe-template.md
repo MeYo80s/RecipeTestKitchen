@@ -7,7 +7,7 @@
 **Would Make Again:**  
 **Prep time:**  
 **Cook time:**  
-**Estimated macros:**  
+**Estimated macros:** ~ cal | g protein | g fat | g carbs (per serving)
 
 ### Ingredients
 - 

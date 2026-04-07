@@ -13,7 +13,7 @@ A recipe workspace for meals you want to try, test, rate, and promote into keepe
 
 ## Quick Start
 1. Copy `templates/recipe-template.md` to the right folder under `recipes/`.
-2. Fill in the recipe details and notes after you make it.
+2. Fill in the recipe details, estimated calories/macros, and notes after you make it.
 3. Add a link to the recipe in the matching section of `RECIPE_INDEX.md`.
 4. Run `python3 scripts/generate_recipe_book.py` to rebuild `RECIPE_BOOK.md`.
 

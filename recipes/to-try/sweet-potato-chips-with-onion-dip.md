@@ -3,13 +3,13 @@
 ![Sweet Potato Chips with Onion Dip](../../assets/recipes/imported/sweet-potato-chips-with-onion-dip.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5275` and `IMG_5276`)  
+**Source:** Noom cookbook (`IMG_5275` and `IMG_5276`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  
 **Prep time:** 25 min  
 **Cook time:** 1 hr 20 min  
-**Estimated macros:**  
+**Estimated macros:** ~197 cal | 5.3g protein | 10.5g fat | 21g carbs (estimated per serving, based on visible ingredients only)
 
 ### Ingredients
 - For the dip:
@@ -41,4 +41,5 @@
 ### Notes/Changes
 - This import is incomplete. The photographed recipe page says "continued on page 234," but that continuation page was not included in the batch.
 - Total time on the source page is 1 hour 45 minutes and serves 6.
+- Macro estimate is approximate because the final page of the recipe was missing from the photo set.
 - Source image includes a plated photo from `IMG_5276.HEIC`.

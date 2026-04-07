@@ -3,7 +3,7 @@
 ![Creamy Tortilla Soup](../../assets/recipes/imported/creamy-tortilla-soup.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5286` and `IMG_5287`)  
+**Source:** Noom cookbook (`IMG_5286` and `IMG_5287`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  

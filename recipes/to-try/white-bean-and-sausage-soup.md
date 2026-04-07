@@ -3,7 +3,7 @@
 ![White Bean & Sausage Soup](../../assets/recipes/imported/white-bean-and-sausage-soup.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5290` and `IMG_5291`)  
+**Source:** Noom cookbook (`IMG_5290` and `IMG_5291`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  

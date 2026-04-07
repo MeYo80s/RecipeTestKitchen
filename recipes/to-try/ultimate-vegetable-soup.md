@@ -3,7 +3,7 @@
 ![Ultimate Vegetable Soup](../../assets/recipes/imported/ultimate-vegetable-soup.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5288` and `IMG_5289`)  
+**Source:** Noom cookbook (`IMG_5288` and `IMG_5289`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  

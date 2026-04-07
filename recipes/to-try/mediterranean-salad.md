@@ -3,7 +3,7 @@
 ![Mediterranean Salad](../../assets/recipes/imported/mediterranean-salad.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5283` and `IMG_5284`)  
+**Source:** Noom cookbook (`IMG_5283` and `IMG_5284`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  

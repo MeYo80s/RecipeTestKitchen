@@ -3,7 +3,7 @@
 ![Crispy Spiced Oven-Baked Chickpeas](../../assets/recipes/imported/crispy-spiced-oven-baked-chickpeas.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5277` and `IMG_5278`)  
+**Source:** Noom cookbook (`IMG_5277` and `IMG_5278`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  

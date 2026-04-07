@@ -3,7 +3,7 @@
 ![Roasted Tomato Cups with Bread Crumbs](../../assets/recipes/imported/roasted-tomato-cups-with-bread-crumbs.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5279` and `IMG_5280`)  
+**Source:** Noom cookbook (`IMG_5279` and `IMG_5280`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  

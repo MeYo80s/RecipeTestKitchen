@@ -40,7 +40,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 ![Crispy Quinoa Granola](assets/recipes/imported/crispy-quinoa-granola.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5292` and `IMG_5293`)  
+**Source:** Noom cookbook (`IMG_5292` and `IMG_5293`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  
@@ -83,7 +83,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 ![Crispy Spiced Oven-Baked Chickpeas](assets/recipes/imported/crispy-spiced-oven-baked-chickpeas.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5277` and `IMG_5278`)  
+**Source:** Noom cookbook (`IMG_5277` and `IMG_5278`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  
@@ -113,7 +113,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 ![Creamy Tortilla Soup](assets/recipes/imported/creamy-tortilla-soup.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5286` and `IMG_5287`)  
+**Source:** Noom cookbook (`IMG_5286` and `IMG_5287`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  
@@ -157,7 +157,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 ![Mediterranean Salad](assets/recipes/imported/mediterranean-salad.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5283` and `IMG_5284`)  
+**Source:** Noom cookbook (`IMG_5283` and `IMG_5284`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  
@@ -186,7 +186,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 ![Roasted Tomato Cups with Bread Crumbs](assets/recipes/imported/roasted-tomato-cups-with-bread-crumbs.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5279` and `IMG_5280`)  
+**Source:** Noom cookbook (`IMG_5279` and `IMG_5280`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  
@@ -220,13 +220,13 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 ![Sweet Potato Chips with Onion Dip](assets/recipes/imported/sweet-potato-chips-with-onion-dip.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5275` and `IMG_5276`)  
+**Source:** Noom cookbook (`IMG_5275` and `IMG_5276`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  
 **Prep time:** 25 min  
 **Cook time:** 1 hr 20 min  
-**Estimated macros:**  
+**Estimated macros:** ~197 cal | 5.3g protein | 10.5g fat | 21g carbs (estimated per serving, based on visible ingredients only)
 
 ### Ingredients
 - For the dip:
@@ -258,13 +258,14 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 ### Notes/Changes
 - This import is incomplete. The photographed recipe page says "continued on page 234," but that continuation page was not included in the batch.
 - Total time on the source page is 1 hour 45 minutes and serves 6.
+- Macro estimate is approximate because the final page of the recipe was missing from the photo set.
 - Source image includes a plated photo from `IMG_5276.HEIC`.
 
 ### 7. Tofu & Mango Summer Rolls
 ![Tofu & Mango Summer Rolls](assets/recipes/imported/tofu-and-mango-summer-rolls.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5281` and `IMG_5282`)  
+**Source:** Noom cookbook (`IMG_5281` and `IMG_5282`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  
@@ -311,7 +312,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 ![Ultimate Vegetable Soup](assets/recipes/imported/ultimate-vegetable-soup.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5288` and `IMG_5289`)  
+**Source:** Noom cookbook (`IMG_5288` and `IMG_5289`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  
@@ -352,7 +353,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 ![White Bean & Sausage Soup](assets/recipes/imported/white-bean-and-sausage-soup.png)
 
 **Recipe Owner:**  
-**Source:** Imported from cookbook photo batch (`IMG_5290` and `IMG_5291`)  
+**Source:** Noom cookbook (`IMG_5290` and `IMG_5291`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  
