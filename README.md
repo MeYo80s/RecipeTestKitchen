@@ -8,6 +8,7 @@ A recipe workspace for meals you want to try, test, rate, and promote into keepe
 - `recipes/keepers/` - recipes worth keeping and repeating
 - `RECIPE_INDEX.md` - master list of recipes by section
 - `RECIPE_BOOK.md` - generated all-in-one recipe book
+- `MISSING_PIECES.md` - reminder list for recipes with missing source pages
 - `templates/recipe-template.md` - template for new recipe files
 - `scripts/generate_recipe_book.py` - rebuilds `RECIPE_BOOK.md`
 
@@ -21,3 +22,6 @@ A recipe workspace for meals you want to try, test, rate, and promote into keepe
 - Start new ideas in `recipes/to-try/`.
 - Move them to `recipes/tested/` after you make them and add your rating.
 - Move your winners to `recipes/keepers/` when they earn a permanent spot.
+
+## Current Follow-Up
+- Check [MISSING_PIECES.md](/Users/kristine.kartchner/Documents/RecipeTestKitchen/MISSING_PIECES.md) for recipes that still need missing cookbook pages.
