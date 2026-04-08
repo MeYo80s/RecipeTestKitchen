@@ -220,13 +220,13 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 ![Sweet Potato Chips with Onion Dip](assets/recipes/imported/sweet-potato-chips-with-onion-dip.png)
 
 **Recipe Owner:**  
-**Source:** Noom cookbook (`IMG_5275` and `IMG_5276`)  
+**Source:** Noom cookbook (`IMG_5275`, `IMG_5276`, and `IMG_5304`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  
 **Prep time:** 25 min  
 **Cook time:** 1 hr 20 min  
-**Estimated macros:** ~197 cal | 5.3g protein | 10.5g fat | 21g carbs (estimated per serving, based on visible ingredients only)
+**Estimated macros:** ~199 cal | 5.6g protein | 10.9g fat | 20.5g carbs (1/2 cup chips and 1/4 cup dip)
 
 ### Ingredients
 - For the dip:
@@ -254,11 +254,13 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 4. Make the chips: Preheat the oven to 375 F. Place a metal roasting rack on a rimmed baking sheet. Spray the rack with olive oil cooking spray.
 5. Slice the potatoes on a mandoline into thin slices about 1/16 inch. If using a knife instead, cut the slices as thin as possible.
 6. Pat the potatoes dry between 2 layers of paper towels, then place them in a large bowl, add the olive oil, salt, and pepper, and toss, making sure the pieces are not stuck to each other.
+7. Separate the sweet potato slices and lay half of them on the wire rack, avoiding any overlap. Bake until golden and crisp, rotating the pan from front to back halfway through the cooking time, 25 to 30 minutes total.
+8. Allow the chips to cool, then transfer to a second baking sheet or large platter. They will continue to crisp as they cool.
+9. Repeat with the remaining potato slices, making sure they also bake until crisp as well.
+10. Place servings of the chips in individual snack cups and serve along with the dip, or place the chips in a large bowl and serve family style.
 
 ### Notes/Changes
-- This import is incomplete. The photographed recipe page says "continued on page 234," but that continuation page was not included in the batch.
 - Total time on the source page is 1 hour 45 minutes and serves 6.
-- Macro estimate is approximate because the final page of the recipe was missing from the photo set.
 - Source image includes a plated photo from `IMG_5276.HEIC`.
 
 ### 7. Tofu & Mango Summer Rolls
