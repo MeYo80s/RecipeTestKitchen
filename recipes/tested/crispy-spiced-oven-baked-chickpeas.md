@@ -4,9 +4,9 @@
 
 **Recipe Owner:**  
 **Source:** Noom cookbook (`IMG_5277` and `IMG_5278`)  
-**Date Made:**  
-**Rating:**  
-**Would Make Again:**  
+**Date Made:** 4/8/26  
+**Rating:** 3 stars  
+**Would Make Again:** No  
 **Prep time:** 15 min  
 **Cook time:** 35 min  
 **Estimated macros:** ~217 cal | 7.4g protein | 6.3g fat | 33.7g carbs (per 1/2 cup)
@@ -27,4 +27,6 @@
 
 ### Notes/Changes
 - Serves 6.
+- It was too crunchy for me.
+- Seasoning was good though.
 - Source image includes a plated photo from `IMG_5278.HEIC`.

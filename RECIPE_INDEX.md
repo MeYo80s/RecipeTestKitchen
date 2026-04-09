@@ -4,7 +4,6 @@ Add recipe links to the sections below. The generator uses this file to decide t
 
 ## To Try
 - [Crispy Quinoa Granola](recipes/to-try/crispy-quinoa-granola.md)
-- [Crispy Spiced Oven-Baked Chickpeas](recipes/to-try/crispy-spiced-oven-baked-chickpeas.md)
 - [Creamy Tortilla Soup](recipes/to-try/creamy-tortilla-soup.md)
 - [Mediterranean Salad](recipes/to-try/mediterranean-salad.md)
 - [Roasted Tomato Cups with Bread Crumbs](recipes/to-try/roasted-tomato-cups-with-bread-crumbs.md)
@@ -14,7 +13,7 @@ Add recipe links to the sections below. The generator uses this file to decide t
 - [White Bean & Sausage Soup](recipes/to-try/white-bean-and-sausage-soup.md)
 
 ## Tested
-- _Add tested recipes here_
+- [Crispy Spiced Oven-Baked Chickpeas](recipes/tested/crispy-spiced-oven-baked-chickpeas.md)
 
 ## Keepers
 - _Add keeper recipes here_

@@ -4,8 +4,8 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 
 ## Overview
 - Total recipes: **9**
-- To Try: **9**
-- Tested: **0**
+- To Try: **8**
+- Tested: **1**
 - Keepers: **0**
 
 ## How to Use This Book
@@ -17,17 +17,16 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 
 ### To Try
 - [1. Crispy Quinoa Granola](#1-crispy-quinoa-granola)
-- [2. Crispy Spiced Oven-Baked Chickpeas](#2-crispy-spiced-oven-baked-chickpeas)
-- [3. Creamy Tortilla Soup](#3-creamy-tortilla-soup)
-- [4. Mediterranean Salad](#4-mediterranean-salad)
-- [5. Roasted Tomato Cups with Bread Crumbs](#5-roasted-tomato-cups-with-bread-crumbs)
-- [6. Sweet Potato Chips with Onion Dip](#6-sweet-potato-chips-with-onion-dip)
-- [7. Tofu & Mango Summer Rolls](#7-tofu-mango-summer-rolls)
-- [8. Ultimate Vegetable Soup](#8-ultimate-vegetable-soup)
-- [9. White Bean & Sausage Soup](#9-white-bean-sausage-soup)
+- [2. Creamy Tortilla Soup](#2-creamy-tortilla-soup)
+- [3. Mediterranean Salad](#3-mediterranean-salad)
+- [4. Roasted Tomato Cups with Bread Crumbs](#4-roasted-tomato-cups-with-bread-crumbs)
+- [5. Sweet Potato Chips with Onion Dip](#5-sweet-potato-chips-with-onion-dip)
+- [6. Tofu & Mango Summer Rolls](#6-tofu-mango-summer-rolls)
+- [7. Ultimate Vegetable Soup](#7-ultimate-vegetable-soup)
+- [8. White Bean & Sausage Soup](#8-white-bean-sausage-soup)
 
 ### Tested
-- _No recipes yet_
+- [9. Crispy Spiced Oven-Baked Chickpeas](#9-crispy-spiced-oven-baked-chickpeas)
 
 ### Keepers
 - _No recipes yet_
@@ -79,37 +78,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - Source image includes a plated photo from `IMG_5293.HEIC`.
 - The page also lists a second nutrition line for granola plus yogurt and berries: 308 cal | 8.9g protein | 5.9g fat | 37.7g carbs.
 
-### 2. Crispy Spiced Oven-Baked Chickpeas
-![Crispy Spiced Oven-Baked Chickpeas](assets/recipes/imported/crispy-spiced-oven-baked-chickpeas.png)
-
-**Recipe Owner:**  
-**Source:** Noom cookbook (`IMG_5277` and `IMG_5278`)  
-**Date Made:**  
-**Rating:**  
-**Would Make Again:**  
-**Prep time:** 15 min  
-**Cook time:** 35 min  
-**Estimated macros:** ~217 cal | 7.4g protein | 6.3g fat | 33.7g carbs (per 1/2 cup)
-
-### Ingredients
-- 2 14- to 16-ounce cans chickpeas, drained and rinsed
-- 2 tablespoons olive oil
-- 1/2 teaspoon fine sea salt
-- 1/2 teaspoon smoked paprika
-- 1 1/2 teaspoons sweet paprika
-- 1 1/2 teaspoons ground cumin
-
-### Instructions
-1. Preheat the oven to 425 F.
-2. Line a rimmed baking sheet with a clean kitchen towel or 2 layers of paper towels and arrange the chickpeas on the towel. Place another towel on top of the chickpeas and gently shake the baking sheet to absorb any additional moisture; the drier the chickpeas are, the crispier they will get. Remove and discard any errant chickpea skins, then transfer the chickpeas to a large bowl. Remove the towel from the baking sheet.
-3. Add the olive oil, salt, smoked and sweet paprikas, and cumin to the chickpeas. Stir to coat, then spread them evenly on the baking sheet. Roast the chickpeas, shaking the sheet occasionally to move them around, until they are golden and crisp, 30 to 35 minutes or longer if necessary.
-4. Allow the chickpeas to cool completely. Store them in an airtight container for up to 4 days.
-
-### Notes/Changes
-- Serves 6.
-- Source image includes a plated photo from `IMG_5278.HEIC`.
-
-### 3. Creamy Tortilla Soup
+### 2. Creamy Tortilla Soup
 ![Creamy Tortilla Soup](assets/recipes/imported/creamy-tortilla-soup.png)
 
 **Recipe Owner:**  
@@ -153,11 +122,11 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - Serves 6.
 - Source image includes a plated photo from `IMG_5287.HEIC`.
 
-### 4. Mediterranean Salad
+### 3. Mediterranean Salad
 ![Mediterranean Salad](assets/recipes/imported/mediterranean-salad.png)
 
 **Recipe Owner:**  
-**Source:** Noom cookbook (`IMG_5283` and `IMG_5284`)  
+**Source:** Noom cookbook (`IMG_5283`, `IMG_5284`, and `IMG_5307`)  
 **Date Made:**  
 **Rating:**  
 **Would Make Again:**  
@@ -166,7 +135,15 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 **Estimated macros:** ~136 cal | 4.4g protein | 5.5g fat | 18g carbs (per 1 cup)
 
 ### Ingredients
-- Dijon mustard dressing, page 190 in the source cookbook
+- For the Dijon mustard dressing:
+- 2 tablespoons minced shallot
+- 1/4 cup olive oil
+- 3 tablespoons red wine vinegar
+- 2 teaspoons Dijon mustard
+- 1 tablespoon chopped fresh oregano
+- 1/4 teaspoon kosher salt
+- 1/2 teaspoon freshly ground black pepper
+- For the salad:
 - 6 vine-ripened small tomatoes, about 2 pounds, each cut into 8 wedges
 - 1 cup canned chickpeas, drained and rinsed
 - 1/2 cup thinly sliced red onion
@@ -175,14 +152,14 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - 1/2 cup chopped fresh cilantro
 
 ### Instructions
-1. Add the dressing, tomatoes, chickpeas, red onion, sun-dried tomatoes, and capers to a bowl and gently toss to coat. Refrigerate to marinate for at least 1 hour and up to 24 hours.
-2. Toss the salad with the cilantro. Divide among 6 bowls and serve the salad chilled or at room temperature.
+1. In a small jar with a tight-fitting lid, combine the shallot, olive oil, vinegar, mustard, oregano, salt, and pepper, and shake until emulsified.
+2. Add the dressing, tomatoes, chickpeas, red onion, sun-dried tomatoes, and capers to a bowl and gently toss to coat. Refrigerate to marinate for at least 1 hour and up to 24 hours.
+3. Toss the salad with the cilantro. Divide among 6 bowls and serve the salad chilled or at room temperature.
 
 ### Notes/Changes
-- This import is incomplete because the Dijon mustard dressing recipe is referenced from page 190 and was not included in the photo batch.
 - Source image includes a plated photo from `IMG_5284.HEIC`.
 
-### 5. Roasted Tomato Cups with Bread Crumbs
+### 4. Roasted Tomato Cups with Bread Crumbs
 ![Roasted Tomato Cups with Bread Crumbs](assets/recipes/imported/roasted-tomato-cups-with-bread-crumbs.png)
 
 **Recipe Owner:**  
@@ -216,7 +193,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - Serves 6.
 - Source image includes a plated photo from `IMG_5280.HEIC`.
 
-### 6. Sweet Potato Chips with Onion Dip
+### 5. Sweet Potato Chips with Onion Dip
 ![Sweet Potato Chips with Onion Dip](assets/recipes/imported/sweet-potato-chips-with-onion-dip.png)
 
 **Recipe Owner:**  
@@ -263,7 +240,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - Total time on the source page is 1 hour 45 minutes and serves 6.
 - Source image includes a plated photo from `IMG_5276.HEIC`.
 
-### 7. Tofu & Mango Summer Rolls
+### 6. Tofu & Mango Summer Rolls
 ![Tofu & Mango Summer Rolls](assets/recipes/imported/tofu-and-mango-summer-rolls.png)
 
 **Recipe Owner:**  
@@ -310,7 +287,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - The source page includes full ingredient amounts and cooking steps, but the visual assembly walkthrough is referenced to another page in the cookbook.
 - Source image includes a plated photo from `IMG_5282.HEIC`.
 
-### 8. Ultimate Vegetable Soup
+### 7. Ultimate Vegetable Soup
 ![Ultimate Vegetable Soup](assets/recipes/imported/ultimate-vegetable-soup.png)
 
 **Recipe Owner:**  
@@ -351,7 +328,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - Serves 8.
 - Source image includes a plated photo from `IMG_5289.HEIC`.
 
-### 9. White Bean & Sausage Soup
+### 8. White Bean & Sausage Soup
 ![White Bean & Sausage Soup](assets/recipes/imported/white-bean-and-sausage-soup.png)
 
 **Recipe Owner:**  
@@ -392,7 +369,37 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 
 ## Tested
 
-_No recipes in this section yet._
+### 9. Crispy Spiced Oven-Baked Chickpeas
+![Crispy Spiced Oven-Baked Chickpeas](assets/recipes/imported/crispy-spiced-oven-baked-chickpeas.png)
+
+**Recipe Owner:**  
+**Source:** Noom cookbook (`IMG_5277` and `IMG_5278`)  
+**Date Made:** 4/8/26  
+**Rating:** 3 stars  
+**Would Make Again:** No  
+**Prep time:** 15 min  
+**Cook time:** 35 min  
+**Estimated macros:** ~217 cal | 7.4g protein | 6.3g fat | 33.7g carbs (per 1/2 cup)
+
+### Ingredients
+- 2 14- to 16-ounce cans chickpeas, drained and rinsed
+- 2 tablespoons olive oil
+- 1/2 teaspoon fine sea salt
+- 1/2 teaspoon smoked paprika
+- 1 1/2 teaspoons sweet paprika
+- 1 1/2 teaspoons ground cumin
+
+### Instructions
+1. Preheat the oven to 425 F.
+2. Line a rimmed baking sheet with a clean kitchen towel or 2 layers of paper towels and arrange the chickpeas on the towel. Place another towel on top of the chickpeas and gently shake the baking sheet to absorb any additional moisture; the drier the chickpeas are, the crispier they will get. Remove and discard any errant chickpea skins, then transfer the chickpeas to a large bowl. Remove the towel from the baking sheet.
+3. Add the olive oil, salt, smoked and sweet paprikas, and cumin to the chickpeas. Stir to coat, then spread them evenly on the baking sheet. Roast the chickpeas, shaking the sheet occasionally to move them around, until they are golden and crisp, 30 to 35 minutes or longer if necessary.
+4. Allow the chickpeas to cool completely. Store them in an airtight container for up to 4 days.
+
+### Notes/Changes
+- Serves 6.
+- It was too crunchy for me.
+- Seasoning was good though.
+- Source image includes a plated photo from `IMG_5278.HEIC`.
 
 ---
 
