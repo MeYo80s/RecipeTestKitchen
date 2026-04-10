@@ -4,8 +4,8 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 
 ## Overview
 - Total recipes: **9**
-- To Try: **8**
-- Tested: **1**
+- To Try: **7**
+- Tested: **2**
 - Keepers: **0**
 
 ## How to Use This Book
@@ -20,13 +20,13 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - [2. Creamy Tortilla Soup](#2-creamy-tortilla-soup)
 - [3. Mediterranean Salad](#3-mediterranean-salad)
 - [4. Roasted Tomato Cups with Bread Crumbs](#4-roasted-tomato-cups-with-bread-crumbs)
-- [5. Sweet Potato Chips with Onion Dip](#5-sweet-potato-chips-with-onion-dip)
-- [6. Tofu & Mango Summer Rolls](#6-tofu-mango-summer-rolls)
-- [7. Ultimate Vegetable Soup](#7-ultimate-vegetable-soup)
-- [8. White Bean & Sausage Soup](#8-white-bean-sausage-soup)
+- [5. Tofu & Mango Summer Rolls](#5-tofu-mango-summer-rolls)
+- [6. Ultimate Vegetable Soup](#6-ultimate-vegetable-soup)
+- [7. White Bean & Sausage Soup](#7-white-bean-sausage-soup)
 
 ### Tested
-- [9. Crispy Spiced Oven-Baked Chickpeas](#9-crispy-spiced-oven-baked-chickpeas)
+- [8. Crispy Spiced Oven-Baked Chickpeas](#8-crispy-spiced-oven-baked-chickpeas)
+- [9. Sweet Potato Chips with Onion Dip](#9-sweet-potato-chips-with-onion-dip)
 
 ### Keepers
 - _No recipes yet_
@@ -193,54 +193,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - Serves 6.
 - Source image includes a plated photo from `IMG_5280.HEIC`.
 
-### 5. Sweet Potato Chips with Onion Dip
-![Sweet Potato Chips with Onion Dip](assets/recipes/imported/sweet-potato-chips-with-onion-dip.png)
-
-**Recipe Owner:**  
-**Source:** Noom cookbook (`IMG_5275`, `IMG_5276`, and `IMG_5304`)  
-**Date Made:**  
-**Rating:**  
-**Would Make Again:**  
-**Prep time:** 25 min  
-**Cook time:** 1 hr 20 min  
-**Estimated macros:** ~199 cal | 5.6g protein | 10.9g fat | 20.5g carbs (1/2 cup chips and 1/4 cup dip)
-
-### Ingredients
-- For the dip:
-- 1 tablespoon olive oil
-- 1 very large onion, finely minced, about 2 cups
-- 1/2 teaspoon kosher salt
-- 2 garlic cloves, minced
-- 1 cup plain nonfat Greek yogurt
-- 2 tablespoons light mayonnaise
-- 3 tablespoons finely minced fresh chives
-- 1 teaspoon garlic powder
-- 1 teaspoon onion powder
-- 1/4 teaspoon freshly ground black pepper
-- For the chips:
-- Olive oil cooking spray
-- 2 medium sweet potatoes, about 1 pound, scrubbed and dried, ends trimmed, peel left on
-- 3 tablespoons olive oil
-- 1 teaspoon kosher salt
-- 1/4 teaspoon freshly ground black pepper
-
-### Instructions
-1. Cook the onion: Heat the olive oil in a large 12-inch skillet over medium-high heat. Add the onion and 1/4 teaspoon of the salt and cook, stirring, for 5 minutes. Reduce the heat to medium-low, add the garlic, and cook, stirring, until the onion is golden but not charred, about 10 more minutes.
-2. Transfer the onion mixture to a medium bowl and let it cool for at least 10 minutes.
-3. Make the dip: When the onion is no longer hot, add the yogurt, mayonnaise, chives, garlic and onion powder, remaining 1/4 teaspoon salt, and the pepper and stir to combine. Chill for at least 1 hour to let the flavors meld. The dip can be made up to 3 days ahead; keep covered and chilled.
-4. Make the chips: Preheat the oven to 375 F. Place a metal roasting rack on a rimmed baking sheet. Spray the rack with olive oil cooking spray.
-5. Slice the potatoes on a mandoline into thin slices about 1/16 inch. If using a knife instead, cut the slices as thin as possible.
-6. Pat the potatoes dry between 2 layers of paper towels, then place them in a large bowl, add the olive oil, salt, and pepper, and toss, making sure the pieces are not stuck to each other.
-7. Separate the sweet potato slices and lay half of them on the wire rack, avoiding any overlap. Bake until golden and crisp, rotating the pan from front to back halfway through the cooking time, 25 to 30 minutes total.
-8. Allow the chips to cool, then transfer to a second baking sheet or large platter. They will continue to crisp as they cool.
-9. Repeat with the remaining potato slices, making sure they also bake until crisp as well.
-10. Place servings of the chips in individual snack cups and serve along with the dip, or place the chips in a large bowl and serve family style.
-
-### Notes/Changes
-- Total time on the source page is 1 hour 45 minutes and serves 6.
-- Source image includes a plated photo from `IMG_5276.HEIC`.
-
-### 6. Tofu & Mango Summer Rolls
+### 5. Tofu & Mango Summer Rolls
 ![Tofu & Mango Summer Rolls](assets/recipes/imported/tofu-and-mango-summer-rolls.png)
 
 **Recipe Owner:**  
@@ -287,7 +240,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - The source page includes full ingredient amounts and cooking steps, but the visual assembly walkthrough is referenced to another page in the cookbook.
 - Source image includes a plated photo from `IMG_5282.HEIC`.
 
-### 7. Ultimate Vegetable Soup
+### 6. Ultimate Vegetable Soup
 ![Ultimate Vegetable Soup](assets/recipes/imported/ultimate-vegetable-soup.png)
 
 **Recipe Owner:**  
@@ -328,7 +281,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - Serves 8.
 - Source image includes a plated photo from `IMG_5289.HEIC`.
 
-### 8. White Bean & Sausage Soup
+### 7. White Bean & Sausage Soup
 ![White Bean & Sausage Soup](assets/recipes/imported/white-bean-and-sausage-soup.png)
 
 **Recipe Owner:**  
@@ -369,7 +322,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 
 ## Tested
 
-### 9. Crispy Spiced Oven-Baked Chickpeas
+### 8. Crispy Spiced Oven-Baked Chickpeas
 ![Crispy Spiced Oven-Baked Chickpeas](assets/recipes/imported/crispy-spiced-oven-baked-chickpeas.png)
 
 **Recipe Owner:**  
@@ -400,6 +353,54 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - It was too crunchy for me.
 - Seasoning was good though.
 - Source image includes a plated photo from `IMG_5278.HEIC`.
+
+### 9. Sweet Potato Chips with Onion Dip
+![Sweet Potato Chips with Onion Dip](assets/recipes/imported/sweet-potato-chips-with-onion-dip.png)
+
+**Recipe Owner:**  
+**Source:** Noom cookbook (`IMG_5275`, `IMG_5276`, and `IMG_5304`)  
+**Date Made:** 4/9/26  
+**Rating:** 3 out of 5 stars  
+**Would Make Again:** No  
+**Prep time:** 25 min  
+**Cook time:** 1 hr 20 min  
+**Estimated macros:** ~199 cal | 5.6g protein | 10.9g fat | 20.5g carbs (1/2 cup chips and 1/4 cup dip)
+
+### Ingredients
+- For the dip:
+- 1 tablespoon olive oil
+- 1 very large onion, finely minced, about 2 cups
+- 1/2 teaspoon kosher salt
+- 2 garlic cloves, minced
+- 1 cup plain nonfat Greek yogurt
+- 2 tablespoons light mayonnaise
+- 3 tablespoons finely minced fresh chives
+- 1 teaspoon garlic powder
+- 1 teaspoon onion powder
+- 1/4 teaspoon freshly ground black pepper
+- For the chips:
+- Olive oil cooking spray
+- 2 medium sweet potatoes, about 1 pound, scrubbed and dried, ends trimmed, peel left on
+- 3 tablespoons olive oil
+- 1 teaspoon kosher salt
+- 1/4 teaspoon freshly ground black pepper
+
+### Instructions
+1. Cook the onion: Heat the olive oil in a large 12-inch skillet over medium-high heat. Add the onion and 1/4 teaspoon of the salt and cook, stirring, for 5 minutes. Reduce the heat to medium-low, add the garlic, and cook, stirring, until the onion is golden but not charred, about 10 more minutes.
+2. Transfer the onion mixture to a medium bowl and let it cool for at least 10 minutes.
+3. Make the dip: When the onion is no longer hot, add the yogurt, mayonnaise, chives, garlic and onion powder, remaining 1/4 teaspoon salt, and the pepper and stir to combine. Chill for at least 1 hour to let the flavors meld. The dip can be made up to 3 days ahead; keep covered and chilled.
+4. Make the chips: Preheat the oven to 375 F. Place a metal roasting rack on a rimmed baking sheet. Spray the rack with olive oil cooking spray.
+5. Slice the potatoes on a mandoline into thin slices about 1/16 inch. If using a knife instead, cut the slices as thin as possible.
+6. Pat the potatoes dry between 2 layers of paper towels, then place them in a large bowl, add the olive oil, salt, and pepper, and toss, making sure the pieces are not stuck to each other.
+7. Separate the sweet potato slices and lay half of them on the wire rack, avoiding any overlap. Bake until golden and crisp, rotating the pan from front to back halfway through the cooking time, 25 to 30 minutes total.
+8. Allow the chips to cool, then transfer to a second baking sheet or large platter. They will continue to crisp as they cool.
+9. Repeat with the remaining potato slices, making sure they also bake until crisp as well.
+10. Place servings of the chips in individual snack cups and serve along with the dip, or place the chips in a large bowl and serve family style.
+
+### Notes/Changes
+- Total time on the source page is 1 hour 45 minutes and serves 6.
+- Not a keeper.
+- Source image includes a plated photo from `IMG_5276.HEIC`.
 
 ---
 

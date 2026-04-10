@@ -4,9 +4,9 @@
 
 **Recipe Owner:**  
 **Source:** Noom cookbook (`IMG_5275`, `IMG_5276`, and `IMG_5304`)  
-**Date Made:**  
-**Rating:**  
-**Would Make Again:**  
+**Date Made:** 4/9/26  
+**Rating:** 3 out of 5 stars  
+**Would Make Again:** No  
 **Prep time:** 25 min  
 **Cook time:** 1 hr 20 min  
 **Estimated macros:** ~199 cal | 5.6g protein | 10.9g fat | 20.5g carbs (1/2 cup chips and 1/4 cup dip)
@@ -44,4 +44,5 @@
 
 ### Notes/Changes
 - Total time on the source page is 1 hour 45 minutes and serves 6.
+- Not a keeper.
 - Source image includes a plated photo from `IMG_5276.HEIC`.
