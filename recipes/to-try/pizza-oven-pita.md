@@ -1,5 +1,9 @@
 # Homemade Pita (Pizza Oven)
 
+![Fresh homemade pita with an open pocket](../../assets/recipes/pizza-oven-pita.png)
+
+*AI-generated serving illustration.*
+
 **Recipe Owner:**  
 **Source:** Dough adapted from [King Arthur Baking / Golden Pita Bread](https://www.kingarthurbaking.com/recipes/golden-pita-bread-recipe); pizza-oven adjustments below are untested kitchen guidance.  
 **Date Made:**  

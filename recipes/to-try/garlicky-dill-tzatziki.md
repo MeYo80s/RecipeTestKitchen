@@ -1,5 +1,9 @@
 # Garlicky Dill Tzatziki
 
+![Creamy cucumber and dill tzatziki](../../assets/recipes/garlicky-dill-tzatziki.png)
+
+*AI-generated serving illustration.*
+
 **Recipe Owner:**  
 **Source:** Adapted from [Suzy Karadsheh / The Mediterranean Dish](https://www.themediterraneandish.com/tzatziki-sauce-recipe/), with a measured dill addition and adjustable garlic.  
 **Date Made:**  

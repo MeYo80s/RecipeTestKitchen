@@ -126,6 +126,10 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - Source image includes a plated photo from `IMG_5287.HEIC`.
 
 ### 3. Garlicky Dill Tzatziki
+![Creamy cucumber and dill tzatziki](assets/recipes/garlicky-dill-tzatziki.png)
+
+*AI-generated serving illustration.*
+
 **Recipe Owner:**  
 **Source:** Adapted from [Suzy Karadsheh / The Mediterranean Dish](https://www.themediterraneandish.com/tzatziki-sauce-recipe/), with a measured dill addition and adjustable garlic.  
 **Date Made:**  
@@ -159,6 +163,10 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - Dinner timing: mix pita dough first, make and chill the sauce during its rise, then bake the meat and cook pita close to serving.
 
 ### 4. Homemade Pita (Pizza Oven)
+![Fresh homemade pita with an open pocket](assets/recipes/pizza-oven-pita.png)
+
+*AI-generated serving illustration.*
+
 **Recipe Owner:**  
 **Source:** Dough adapted from [King Arthur Baking / Golden Pita Bread](https://www.kingarthurbaking.com/recipes/golden-pita-bread-recipe); pizza-oven adjustments below are untested kitchen guidance.  
 **Date Made:**  
@@ -350,6 +358,10 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - Source image includes a plated photo from `IMG_5289.HEIC`.
 
 ### 9. Viral Döner Kebab (Parchment Roll Method)
+![Döner kebab with roasted tomatoes and onions](assets/recipes/viral-doner-kebab.png)
+
+*AI-generated serving illustration.*
+
 **Recipe Owner:**  
 **Source:** Adapted from [Yumna Jawad / Feel Good Foodie](https://feelgoodfoodie.net/recipe/doner-kebab/)  
 **Date Made:**  

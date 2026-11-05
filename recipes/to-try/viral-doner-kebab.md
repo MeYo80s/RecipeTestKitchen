@@ -1,5 +1,9 @@
 # Viral Döner Kebab (Parchment Roll Method)
 
+![Döner kebab with roasted tomatoes and onions](../../assets/recipes/viral-doner-kebab.png)
+
+*AI-generated serving illustration.*
+
 **Recipe Owner:**  
 **Source:** Adapted from [Yumna Jawad / Feel Good Foodie](https://feelgoodfoodie.net/recipe/doner-kebab/)  
 **Date Made:**  
