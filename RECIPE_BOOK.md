@@ -3,8 +3,8 @@
 A working collection of recipes to try, recipes you've tested, and proven keepers.
 
 ## Overview
-- Total recipes: **9**
-- To Try: **7**
+- Total recipes: **12**
+- To Try: **10**
 - Tested: **2**
 - Keepers: **0**
 
@@ -18,15 +18,18 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 ### To Try
 - [1. Crispy Quinoa Granola](#1-crispy-quinoa-granola)
 - [2. Creamy Tortilla Soup](#2-creamy-tortilla-soup)
-- [3. Mediterranean Salad](#3-mediterranean-salad)
-- [4. Roasted Tomato Cups with Bread Crumbs](#4-roasted-tomato-cups-with-bread-crumbs)
-- [5. Tofu & Mango Summer Rolls](#5-tofu-mango-summer-rolls)
-- [6. Ultimate Vegetable Soup](#6-ultimate-vegetable-soup)
-- [7. White Bean & Sausage Soup](#7-white-bean-sausage-soup)
+- [3. Garlicky Dill Tzatziki](#3-garlicky-dill-tzatziki)
+- [4. Homemade Pita (Pizza Oven)](#4-homemade-pita-pizza-oven)
+- [5. Mediterranean Salad](#5-mediterranean-salad)
+- [6. Roasted Tomato Cups with Bread Crumbs](#6-roasted-tomato-cups-with-bread-crumbs)
+- [7. Tofu & Mango Summer Rolls](#7-tofu-mango-summer-rolls)
+- [8. Ultimate Vegetable Soup](#8-ultimate-vegetable-soup)
+- [9. Viral Döner Kebab (Parchment Roll Method)](#9-viral-d-ner-kebab-parchment-roll-method)
+- [10. White Bean & Sausage Soup](#10-white-bean-sausage-soup)
 
 ### Tested
-- [8. Crispy Spiced Oven-Baked Chickpeas](#8-crispy-spiced-oven-baked-chickpeas)
-- [9. Sweet Potato Chips with Onion Dip](#9-sweet-potato-chips-with-onion-dip)
+- [11. Crispy Spiced Oven-Baked Chickpeas](#11-crispy-spiced-oven-baked-chickpeas)
+- [12. Sweet Potato Chips with Onion Dip](#12-sweet-potato-chips-with-onion-dip)
 
 ### Keepers
 - _No recipes yet_
@@ -122,7 +125,72 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - Serves 6.
 - Source image includes a plated photo from `IMG_5287.HEIC`.
 
-### 3. Mediterranean Salad
+### 3. Garlicky Dill Tzatziki
+**Recipe Owner:**  
+**Source:** Adapted from [Suzy Karadsheh / The Mediterranean Dish](https://www.themediterraneandish.com/tzatziki-sauce-recipe/), with a measured dill addition and adjustable garlic.  
+**Date Made:**  
+**Rating:**  
+**Would Make Again:**  
+**Prep time:** 15 min, plus 30 min–2 hours chilling  
+**Cook time:** None  
+**Servings:** About 8 generous 1/4-cup portions  
+**Estimated macros:** ~75 cal | 5g protein | 5g fat | 3g carbs (per portion; rough estimate with 5% Greek yogurt)
+
+### Ingredients
+- 3/4 large English cucumber
+- 1 teaspoon kosher salt, divided; adjust to taste
+- 2 cups plain full-fat Greek yogurt
+- 4 garlic cloves, finely grated (start with 2 for milder sauce)
+- 1 teaspoon white vinegar
+- 1 tablespoon extra-virgin olive oil, plus optional finishing drizzle
+- 2 tablespoons finely chopped fresh dill
+- 1/4 teaspoon black pepper
+
+### Instructions
+1. Grate cucumber and toss with 1/2 teaspoon salt. Wrap in a clean kitchen towel and wring very thoroughly; discard liquid.
+2. Stir garlic, vinegar, oil, and remaining salt together. Fold in yogurt, squeezed cucumber, dill, and pepper.
+3. Cover and refrigerate 30 minutes to 2 hours. Stir, taste, and adjust seasoning before serving. Finish with an optional little olive oil.
+
+### Notes/Changes
+- Untested in this kitchen. Aim for a thick sauce that stays on a spoon; draining the cucumber and using strained yogurt make the difference.
+- Garlic intensifies as it rests. Start with 2 cloves if making ahead, then decide whether to add more after chilling.
+- Refrigerate airtight and use within 2–4 days.
+- Serve with [Homemade Pizza Oven Pita](recipes/to-try/pizza-oven-pita.md) and [Viral Döner Kebab](recipes/to-try/viral-doner-kebab.md).
+- Dinner timing: mix pita dough first, make and chill the sauce during its rise, then bake the meat and cook pita close to serving.
+
+### 4. Homemade Pita (Pizza Oven)
+**Recipe Owner:**  
+**Source:** Dough adapted from [King Arthur Baking / Golden Pita Bread](https://www.kingarthurbaking.com/recipes/golden-pita-bread-recipe); pizza-oven adjustments below are untested kitchen guidance.  
+**Date Made:**  
+**Rating:**  
+**Would Make Again:**  
+**Prep time:** 25 min active; about 1 hour 15 min rising/resting  
+**Cook time:** Approximately 3–4 min per pita; varies with oven  
+**Servings:** 8 pitas  
+**Estimated macros:** ~200 cal | 5g protein | 4g fat | 36g carbs (per pita; calculated roughly from ingredients)
+
+### Ingredients
+- 360g all-purpose flour (3 cups), plus dusting flour
+- 227g lukewarm water (1 cup)
+- 2 teaspoons instant yeast
+- 2 teaspoons sugar
+- 9g table salt (1 1/2 teaspoons)
+- 25g olive oil (about 2 tablespoons)
+
+### Instructions
+1. Mix all ingredients into a shaggy dough. Knead until smooth, about 10 minutes by hand or 5 minutes in a mixer. Cover; rise about 1 hour, until puffy.
+2. Divide into eight balls, about 80g each. Cover and rest 15 minutes. Roll on a lightly floured counter into even 7-inch circles, about 1/8 inch thick. Avoid tears.
+3. Preheat the pizza oven thoroughly. For this adaptation, start with a stone surface around 500–550°F (260–290°C), measured with an infrared thermometer. Use a low flame if adjustable; position bread away from direct flame.
+4. Launch one pita directly onto the stone with a lightly floured peel. Cook until inflated and set, roughly 3–4 minutes at the lower temperature; inspect early and rotate as needed. Remove before it becomes crisp. Wrap the stack in a clean towel.
+
+### Notes/Changes
+- Untested in this kitchen. Oven model is unspecified; record stone temperature, flame setting, and actual bake time after the first batch.
+- Use the first pita to tune heat: if it scorches before puffing, lower the flame or let the stone cool. If pale and slow to puff, allow the stone to recover heat. A pizza-hot 800–900°F stone is too aggressive for this starting method.
+- Keep waiting dough covered. If it springs back while rolling, rest another 5–10 minutes. Use minimal dusting flour and brush excess off the peel to reduce scorching. Launch without parchment.
+- Cool before storing airtight; keep up to 2 days at room temperature or freeze.
+- Serve with [Viral Döner Kebab](recipes/to-try/viral-doner-kebab.md) and [Garlicky Dill Tzatziki](recipes/to-try/garlicky-dill-tzatziki.md).
+
+### 5. Mediterranean Salad
 ![Mediterranean Salad](assets/recipes/imported/mediterranean-salad.png)
 
 **Recipe Owner:**  
@@ -159,7 +227,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 ### Notes/Changes
 - Source image includes a plated photo from `IMG_5284.HEIC`.
 
-### 4. Roasted Tomato Cups with Bread Crumbs
+### 6. Roasted Tomato Cups with Bread Crumbs
 ![Roasted Tomato Cups with Bread Crumbs](assets/recipes/imported/roasted-tomato-cups-with-bread-crumbs.png)
 
 **Recipe Owner:**  
@@ -193,7 +261,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - Serves 6.
 - Source image includes a plated photo from `IMG_5280.HEIC`.
 
-### 5. Tofu & Mango Summer Rolls
+### 7. Tofu & Mango Summer Rolls
 ![Tofu & Mango Summer Rolls](assets/recipes/imported/tofu-and-mango-summer-rolls.png)
 
 **Recipe Owner:**  
@@ -240,7 +308,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - The source page includes full ingredient amounts and cooking steps, but the visual assembly walkthrough is referenced to another page in the cookbook.
 - Source image includes a plated photo from `IMG_5282.HEIC`.
 
-### 6. Ultimate Vegetable Soup
+### 8. Ultimate Vegetable Soup
 ![Ultimate Vegetable Soup](assets/recipes/imported/ultimate-vegetable-soup.png)
 
 **Recipe Owner:**  
@@ -281,7 +349,43 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - Serves 8.
 - Source image includes a plated photo from `IMG_5289.HEIC`.
 
-### 7. White Bean & Sausage Soup
+### 9. Viral Döner Kebab (Parchment Roll Method)
+**Recipe Owner:**  
+**Source:** Adapted from [Yumna Jawad / Feel Good Foodie](https://feelgoodfoodie.net/recipe/doner-kebab/)  
+**Date Made:**  
+**Rating:**  
+**Would Make Again:**  
+**Prep time:** 15 min  
+**Cook time:** About 18–25 min, plus a brief cooling period  
+**Servings:** 8  
+**Estimated macros:** ~263 cal | 22g protein | 18g fat | 3g carbs (per serving; source estimate, excludes bread and toppings)
+
+### Ingredients
+- 2 pounds ground beef, 85% lean
+- 1 large onion, grated
+- 3 garlic cloves, minced
+- 1/4 cup whole-milk Greek yogurt
+- 2 teaspoons each ground cumin and ground coriander
+- 1 teaspoon each paprika, dried oregano, and salt
+- 1/2 teaspoon black pepper
+- 1 red onion and 2 Roma tomatoes, cut into wedges
+- Optional serving extras: warm pita, lettuce, pickles, and tahini sauce
+
+### Instructions
+1. Heat oven to 400°F (205°C). Combine beef, grated onion, garlic, yogurt, and seasonings thoroughly until cohesive. Divide into four portions.
+2. Sandwich each portion between two 12 × 16-inch parchment sheets. Roll into a thin, even rectangle. Peel off the upper sheet.
+3. Roll from a long edge, winding the bottom parchment together with the meat into a compact, flattened roll. Repeat for all four portions.
+4. Arrange rolls on a rimmed baking sheet with the vegetable wedges alongside. Bake for about 15 minutes, continuing as needed until the beef reaches 160°F (71°C) in the center.
+5. Cool briefly, unwrap, and tear into strips. Discard all parchment. Spread meat on the bare pan and broil 2–3 minutes, watching closely. Serve with the vegetables and optional extras.
+
+### Notes/Changes
+- Make it a meal with [Homemade Pizza Oven Pita](recipes/to-try/pizza-oven-pita.md) and [Garlicky Dill Tzatziki](recipes/to-try/garlicky-dill-tzatziki.md).
+- Untested in this kitchen; record timing, texture, and rating after the first batch.
+- Use oven-safe parchment rated for 400°F or higher, never wax paper. Remove every piece of parchment before broiling.
+- The parchment winds between the thin layers of meat; it is more than an outside wrapper. Open carefully to avoid escaping steam and hot juices.
+- Measure doneness with a thermometer; roll thickness and oven performance affect baking time.
+
+### 10. White Bean & Sausage Soup
 ![White Bean & Sausage Soup](assets/recipes/imported/white-bean-and-sausage-soup.png)
 
 **Recipe Owner:**  
@@ -322,7 +426,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 
 ## Tested
 
-### 8. Crispy Spiced Oven-Baked Chickpeas
+### 11. Crispy Spiced Oven-Baked Chickpeas
 ![Crispy Spiced Oven-Baked Chickpeas](assets/recipes/imported/crispy-spiced-oven-baked-chickpeas.png)
 
 **Recipe Owner:**  
@@ -354,7 +458,7 @@ A working collection of recipes to try, recipes you've tested, and proven keeper
 - Seasoning was good though.
 - Source image includes a plated photo from `IMG_5278.HEIC`.
 
-### 9. Sweet Potato Chips with Onion Dip
+### 12. Sweet Potato Chips with Onion Dip
 ![Sweet Potato Chips with Onion Dip](assets/recipes/imported/sweet-potato-chips-with-onion-dip.png)
 
 **Recipe Owner:**  
